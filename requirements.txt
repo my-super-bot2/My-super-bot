@@ -1,0 +1,3 @@
+​pyTelegramBotAPI
+​google-generativeai
+​flask
